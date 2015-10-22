@@ -1,0 +1,24 @@
+
+body{
+    width: 1300px;
+    height: 250px;
+    background-color: gainsboro;
+
+}
+table, th, td{
+    border: 2px solid bisque;
+    border-collapse: collapse;
+    width: 1300px;
+    height: 250px;
+    text-align: center;
+    align-content: center;
+
+
+}
+
+
+h1{
+font-family: 'Indie Flower', serif;
+    text-align: center;
+    align-content: center;
+}
